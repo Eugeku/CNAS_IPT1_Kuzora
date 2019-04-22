@@ -1,0 +1,10 @@
+﻿  TCP_ECHO.c
+d:\learning\bsuir\bsuir-reposirories\second course\cnas_ipt1_kuzora\tcpserver\tcpserver\tcp_echo.c(29): warning C4477: "sscanf_s": в строке форматирования "%u" требуется аргумент типа "unsigned int *", но вариативный аргумент "1" имеет тип "unsigned short *"
+  d:\learning\bsuir\bsuir-reposirories\second course\cnas_ipt1_kuzora\tcpserver\tcpserver\tcp_echo.c(29): note: рекомендуется использовать "%hu" в строке форматирования
+d:\learning\bsuir\bsuir-reposirories\second course\cnas_ipt1_kuzora\tcpserver\tcpserver\tcp_echo.c(30): warning C4477: "fprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int"
+d:\learning\bsuir\bsuir-reposirories\second course\cnas_ipt1_kuzora\tcpserver\tcpserver\tcp_echo.c(91): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+d:\learning\bsuir\bsuir-reposirories\second course\cnas_ipt1_kuzora\tcpserver\tcpserver\tcp_echo.c(95): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+d:\learning\bsuir\bsuir-reposirories\second course\cnas_ipt1_kuzora\tcpserver\tcpserver\tcp_echo.c(126): warning C4172: возвращение адреса локальной или временной переменной : array
+  TCPServer.vcxproj -> D:\Learning\BSUIR\BSUIR-reposirories\Second course\CNAS_IPT1_Kuzora\TCPServer\Debug\TCPServer.exe

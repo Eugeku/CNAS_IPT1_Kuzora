@@ -1,0 +1,7 @@
+﻿  UDP_ECHO.C
+d:\learning\bsuir\bsuir-reposirories\second course\cnas_ipt1_kuzora\udpserver\udpserver\udp_echo.c(73): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+d:\learning\bsuir\bsuir-reposirories\second course\cnas_ipt1_kuzora\udpserver\udpserver\udp_echo.c(76): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+d:\learning\bsuir\bsuir-reposirories\second course\cnas_ipt1_kuzora\udpserver\udpserver\udp_echo.c(103): warning C4172: возвращение адреса локальной или временной переменной : array
+  UDPServer.vcxproj -> D:\Learning\BSUIR\BSUIR-reposirories\Second course\CNAS_IPT1_Kuzora\UDPServer\Debug\UDPServer.exe
